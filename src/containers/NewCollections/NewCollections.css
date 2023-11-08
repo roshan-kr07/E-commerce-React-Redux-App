@@ -1,0 +1,15 @@
+.latest-coll h1{
+    color: #171717;
+    font-size: 30px;
+    font-weight: 600;
+    margin-left: 172px;
+    font-family: Poppins;
+    
+}
+
+.latest-coll hr{
+    width: 200px;
+    height: 3px;
+    background: #252525;
+    margin-left: 172px;
+}
